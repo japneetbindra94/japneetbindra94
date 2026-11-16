@@ -13,7 +13,6 @@ I'm interested in IT support, systems administration, cloud technologies, and cy
 
 **University of the Fraser Valley (UFV)**  
 Bachelor of Computer Information Systems  
-Co-operative Education Concentration
 
 ## 🛠️ Technical Skills
 
