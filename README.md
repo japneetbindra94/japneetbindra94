@@ -65,7 +65,7 @@ I'm interested in entry-level and co-op opportunities in:
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **Email:** [Add your professional email]
+- **LinkedIn:** (https://www.linkedin.com/in/japneetbindra94/)]
+- **Email:** japneet.kaur3@student.ufv.ca
 
 I'm always interested in connecting with IT professionals, learning from their experiences, and collaborating on technology projects.
